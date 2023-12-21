@@ -29,9 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Public Opinion
+  - Party Competition
+  - EU Politicisation
+  - Survey Analysis
 
 # Education to show in About widget
 education:
@@ -39,12 +40,12 @@ education:
     - course: PhD in Political and Social Science
       institution: European University Institute
       year: 2023
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Political Science
+      institution: ISCTE-IUL
+      year: 2016
+    - course: BSc in Political Science and International Relations
+      institution: NOVA
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
