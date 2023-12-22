@@ -39,17 +39,9 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -237,7 +229,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: mariana.carmoduarte@ics.ulisboa.pt
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
