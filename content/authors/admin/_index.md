@@ -22,10 +22,10 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: ICS - Univeristy of Lisbon
-    url: https://www.ics.ulisboa.pt/en
+    url: https://www.ics.ulisboa.pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include public opinion, party competition, EU politicisation, and survey analysis
 
 # Interests to show in About widget
 interests:
