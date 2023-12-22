@@ -67,7 +67,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/marianacarmoduarte
-  - icon: linkedin
+  - icon: orcid
     icon_pack: fab
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
