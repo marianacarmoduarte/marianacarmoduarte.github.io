@@ -78,6 +78,8 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Postdoctoral reseacher at ICS - University of Lisbon. I received my PhD in Social and Political Sciences from the [European University Institute](https://www.eui.eu/en/home) in September 2023.
+Welcome to my website! I am a Postdoctoral reseacher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I am curently working in the project [LoREP](https://www.ics.ulisboa.pt/en/projeto/losers-representation) - Losers of Representation.
+
+I received my PhD in Social and Political Sciences from the [European University Institute](https://www.eui.eu/en/home) in September 2023.
 
 Thank you for your visit!
