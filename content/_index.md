@@ -225,9 +225,6 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: mariana.carmoduarte@ics.ulisboa.pt
       address:
@@ -237,7 +234,7 @@ sections:
         postcode: 1600-189
         country: Portugal
         country_code: PT
-      directions: Room 5.03
+      directions: Office 5.03
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
