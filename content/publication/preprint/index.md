@@ -1,8 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?"
 authors:
+- João Carvalho
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2020-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -11,27 +12,22 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Journal of Common Market Studies, 58*(6)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. Within this context, this article explores the politicization of immigration in Portugal between 1995 and 2014. Politicization is interpreted as being formed by two distinct dimensions: salience and polarization of the political claims found within news articles extracted from newspapers. Notwithstanding the doubling of the foreign population settled in the country in the early 2000s, the diminished salience and the absence of significant political conflict suggest that immigration failed to become politicized in Portugal. Drawing on a comparative analysis with seven other European states between 1995 and 2009, Portugal observed the lowest rate of politicization. Rather than being related with socio-economic factors, the lack of politicization of immigration was associated with the strategies of the mainstream parties, which successfully prevented the emergence of this topic as a significant political cleavage.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
 featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13048'
+url_code: '#'
+url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
 url_poster: '#'
 url_project: ''
 url_slides: ''
@@ -58,7 +54,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: []
 ---
 
 {{% callout note %}}
