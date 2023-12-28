@@ -22,8 +22,6 @@ publication_short: ""
 
 abstract: Using data from the European Election Study 2014, this article focuses on workers’ EU political alignments during the Great Recession. It deals with two research questions. First, how does the attitude of (manual) workers towards the EU compare to that of the middle and upper classes in the aftermath of the Great Recession? Second, when it comes to workers’ support for the EU, are there systematic differences between countries affected by the crisis? The article finds that, on the one hand, in terms of patterns of workers’ EU political alignments, there are no systematic differences between countries affected to varying degrees by the Great Recession. On the other hand, workers still feel fundamentally detached from the EU, especially when it comes to the manual workers. However, high levels of generalised detachment from the EU are not clearly translated into preferences for Eurosceptic parties, since there are high levels of vote fragmentation.
 
-tags:
-- Source Themes
 featured: false
 
 # links:
@@ -59,13 +57,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
