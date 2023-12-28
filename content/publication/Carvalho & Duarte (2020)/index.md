@@ -1,7 +1,7 @@
 ---
 title: "The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?"
 authors:
-- João Carvalho
+- Joao Carvalho
 - admin
 date: "2020-04-01T00:00:00Z"
 doi: ""
