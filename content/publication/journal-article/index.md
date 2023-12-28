@@ -5,10 +5,7 @@ authors:
 - Luís Cabrita
 - admin
 - Hugo Ferrinho Lopes
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2017"
+date: "2017-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,8 +29,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://journals.sagepub.com/doi/abs/10.1177/1024258917696239'
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
