@@ -1,12 +1,14 @@
 ---
-title: "An example journal article"
+title: "Workers’ EU political alignments during the Great Recession"
 authors:
+- André Freire
+- Luís Cabrita
 - admin
-- Robert Ford
+- Hugo Ferrinho Lopes
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2017"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,13 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Transfer: European Review of Labour and Research, 23*(4)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Using data from the European Election Study 2014, this article focuses on workers’ EU political alignments during the Great Recession. It deals with two research questions. First, how does the attitude of (manual) workers towards the EU compare to that of the middle and upper classes in the aftermath of the Great Recession? Second, when it comes to workers’ support for the EU, are there systematic differences between countries affected by the crisis? The article finds that, on the one hand, in terms of patterns of workers’ EU political alignments, there are no systematic differences between countries affected to varying degrees by the Great Recession. On the other hand, workers still feel fundamentally detached from the EU, especially when it comes to the manual workers. However, high levels of generalised detachment from the EU are not clearly translated into preferences for Eurosceptic parties, since there are high levels of vote fragmentation.
 
 tags:
 - Source Themes

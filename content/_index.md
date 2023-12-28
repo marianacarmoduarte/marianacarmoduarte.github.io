@@ -60,7 +60,7 @@ sections:
   - block: collection
     id: workingpapers
     content:
-      title: Working papers
+      title: Working Papers
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
