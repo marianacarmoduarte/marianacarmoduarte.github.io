@@ -1,7 +1,7 @@
 ---
 title: "The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?"
 authors:
-- João Carvalho
+- Jo Carvalho
 - admin
 date: "2020-04-07T00:00:00Z"
 doi: ""
@@ -12,7 +12,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Common Market Studies, 58*(6)"
@@ -26,7 +26,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13048'
-url_code: ''
+url_code: 
 url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
 url_poster: ''
 url_project: ''
