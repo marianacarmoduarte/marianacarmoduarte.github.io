@@ -40,9 +40,6 @@ education:
     - course: PhD in Political and Social Science
       institution: European University Institute
       year: 2019 - 2023
-    - course: PGDip in Data Analysis in Social Sciences
-      institution: ISCTE-IUL
-      year: 2017 - 2018
     - course: MSc in Political Science
       institution: ISCTE-IUL
       year: 2014 - 2016
