@@ -5,7 +5,7 @@ authors:
 - Luís Cabrita
 - admin
 - Hugo Ferrinho Lopes
-date: "2017-09-01T00:00:00Z"
+date: "2017-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
