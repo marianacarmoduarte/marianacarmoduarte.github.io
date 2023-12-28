@@ -1,11 +1,9 @@
 ---
-title: "Workers’ EU Political Alignments during the Great Recession"
+title: "The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?"
 authors:
-- André Freire
-- Luís Cabrita
+- João Carvalho
 - admin
-- Hugo Ferrinho Lopes
-date: "2017-05-01T00:00:00Z"
+date: "2020-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,19 +15,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transfer: European Review of Labour and Research, 23*(4)"
+publication: "*Journal of Common Market Studies, 58*(6)"
 publication_short: ""
 
-abstract: Using data from the European Election Study 2014, this article focuses on workers’ EU political alignments during the Great Recession. It deals with two research questions. First, how does the attitude of (manual) workers towards the EU compare to that of the middle and upper classes in the aftermath of the Great Recession? Second, when it comes to workers’ support for the EU, are there systematic differences between countries affected by the crisis? The article finds that, on the one hand, in terms of patterns of workers’ EU political alignments, there are no systematic differences between countries affected to varying degrees by the Great Recession. On the other hand, workers still feel fundamentally detached from the EU, especially when it comes to the manual workers. However, high levels of generalised detachment from the EU are not clearly translated into preferences for Eurosceptic parties, since there are high levels of vote fragmentation.
+abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. Within this context, this article explores the politicization of immigration in Portugal between 1995 and 2014. Politicization is interpreted as being formed by two distinct dimensions: salience and polarization of the political claims found within news articles extracted from newspapers. Notwithstanding the doubling of the foreign population settled in the country in the early 2000s, the diminished salience and the absence of significant political conflict suggest that immigration failed to become politicized in Portugal. Drawing on a comparative analysis with seven other European states between 1995 and 2009, Portugal observed the lowest rate of politicization. Rather than being related with socio-economic factors, the lack of politicization of immigration was associated with the strategies of the mainstream parties, which successfully prevented the emergence of this topic as a significant political cleavage.
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://journals.sagepub.com/doi/abs/10.1177/1024258917696239'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13048'
 url_code: 
-url_dataset: ''
+url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
 url_poster: ''
 url_project: ''
 url_slides: ''
