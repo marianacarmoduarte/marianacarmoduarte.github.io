@@ -22,17 +22,17 @@ abstract: Immigration is envisaged as part of an â€˜emergent cultural cleavageâ€
 
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: ""
+#   url: ""
 url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13048'
-url_code: '#'
+url_code: ''
 url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
-url_poster: '#'
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
