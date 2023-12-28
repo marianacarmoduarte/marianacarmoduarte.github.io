@@ -21,7 +21,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ICS - Univeristy of Lisbon
+  - name: ICS - University of Lisbon
     url: https://www.ics.ulisboa.pt/
 
 # Short bio (displayed in user profile at end of posts)
