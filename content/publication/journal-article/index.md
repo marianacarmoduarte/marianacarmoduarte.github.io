@@ -1,5 +1,5 @@
 ---
-title: "Workers’ EU political alignments during the Great Recession"
+title: "Workers’ EU Political Alignments during the Great Recession"
 authors:
 - André Freire
 - Luís Cabrita
