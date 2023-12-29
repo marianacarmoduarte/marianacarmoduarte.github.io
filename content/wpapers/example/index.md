@@ -6,7 +6,7 @@ authors:
   - admin
   - Didier Ruedin
 
-date: '2023-01'
+date: '2023-01-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
