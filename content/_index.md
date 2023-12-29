@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
       image:
@@ -35,7 +35,6 @@ sections:
       background:
         image:
       filename: DSC-0134.JPG
- - block: cover
   - block: about.biography
     id: about
     content:
