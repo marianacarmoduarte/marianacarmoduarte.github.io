@@ -78,7 +78,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: citation
+      view: compact
+      exclude_date: true
       columns: '2'    
   - block: collection
     id: projects
