@@ -36,11 +36,6 @@ sections:
         image:
       filename: DSC-0134.JPG
  - block: cover
-    id: 
-    content:
-      title: 
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
   - block: about.biography
     id: about
     content:
