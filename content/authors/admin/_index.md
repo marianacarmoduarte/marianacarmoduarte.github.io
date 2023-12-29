@@ -80,7 +80,7 @@ highlight_name: true
 
 Welcome to my website! I am a Postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I am currently working on the project [LoREP - Losers of Representation](https://www.ics.ulisboa.pt/en/projeto/losers-representation). In September 2023, I received my PhD in Social and Political Sciences from the [European University Institute](https://www.eui.eu/en/home).
 
-My research interest lies in the field of comparative politics, mainly focusing on public opinion and party competition. I use advanced quantitative methods, such as multilevel modelling and panel data analysis, as well as experimental designs to demonstrate the processes of public opinion formation on diverse political issues, such as the EU and immigration. Besides that, I am also interested in political institutions, electoral systems, and political representation. 
+My research interest lies in the field of comparative politics, mainly focusing on public opinion and party competition. I use advanced quantitative methods, such as multilevel modelling and panel data analysis, as well as experimental designs to unveil the processes of public opinion formation on diverse political issues, such as the EU and immigration. Besides that, I am also interested in political institutions, electoral systems, and political representation. 
 
 If you are interested in knowing more about my research, please feel free to contact me at mariana.carmoduarte@ics.ulisboa.pt.
 
