@@ -23,7 +23,7 @@ publication_types: ['article-journal']
 publication: "*Journal of Common Market Studies*"
 publication_short: ""
 
-abstract: Immigration
+abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. Within this context, this article explores the politicization of immigration in Portugal between 1995 and 2014. Politicization is interpreted as being formed by two distinct dimensions: salience and polarization of the political claims found within news articles extracted from newspapers. Notwithstanding the doubling of the foreign population settled in the country in the early 2000s, the diminished salience and the absence of significant political conflict suggest that immigration failed to become politicized in Portugal. Drawing on a comparative analysis with seven other European states between 1995 and 2009, Portugal observed the lowest rate of politicization.
 
 featured: false
 
