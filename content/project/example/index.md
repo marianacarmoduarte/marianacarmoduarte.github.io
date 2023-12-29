@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Follow the media? News environment and public concern about immigration
+summary: With João Carvalho and Didier Ruedin
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
