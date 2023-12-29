@@ -78,7 +78,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: citation
       columns: '2'    
   - block: collection
     id: projects
