@@ -1,5 +1,5 @@
 ---
-title: LoREP
+title: 'LoREP - Losers of Representation'
 summary: “Losers of Representation” is a scientific project that aims to understand the paradigm of inequality in political representation. 
 
 tags:
