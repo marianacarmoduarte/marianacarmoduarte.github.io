@@ -1,5 +1,5 @@
 ---
-title: Follow the Media? News Environment and Public Concern about Immigration
+title: When National Politics Matters: Individual Predispositions, Party Politicisation of the European Union, and Public Opinion Formation
 summary: Working Paper
 authors:
   - admin
