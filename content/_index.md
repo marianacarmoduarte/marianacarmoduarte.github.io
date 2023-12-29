@@ -48,7 +48,7 @@ sections:
       title: Publications
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: true
     design:
       columns: '2'
@@ -64,7 +64,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - wpapers
+          - post
         author: ""
         category: ""
         tag: ""
@@ -91,7 +91,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - wpapers
+          - post
         author: ""
         category: ""
         tag: ""
