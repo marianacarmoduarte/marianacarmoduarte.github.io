@@ -1,6 +1,6 @@
 ---
 title: Blog with Jupyter Notebooks!
-date: ''
+date: '#'
 summary: Easily blog from Jupyter notebooks!
 ---
 
