@@ -21,7 +21,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['book-section']
 
 # Publication name and optional abbreviated publication name.
-publication: In "*The Politicization of the European Union: From Processes to Consequences*"
+publication: In "*The Politicization of the European Union - From Processes to Consequences*"
 publication_short: ""
 
 abstract: 
