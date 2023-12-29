@@ -20,7 +20,7 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Common Market Studie*"
+publication: "*Journal of Common Market Studies*"
 publication_short: ""
 
 abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. 
