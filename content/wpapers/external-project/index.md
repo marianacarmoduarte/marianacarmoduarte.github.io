@@ -1,5 +1,5 @@
 ---
-title: When National Politics Matters*:* Individual Predispositions, Party Politicisation of the European Union, and Public Opinion Formation
+title: When National Politics Matters: Individual Predispositions, Party Politicisation of the European Union, and Public Opinion Formation
 summary: Working Paper
 authors:
   - admin
