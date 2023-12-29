@@ -1,6 +1,6 @@
 ---
 title: Follow the Media? News Environment and Public Concern about Immigration
-summary: With João Carvalho and Didier Ruedin
+summary: Revise & Resubmit
 authors:
   - João Carvalho
   - admin
