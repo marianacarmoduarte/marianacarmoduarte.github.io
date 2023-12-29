@@ -1,5 +1,5 @@
 ---
-title: "The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?"
+title: 'The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?'
 authors:
 - João Carvalho
 - admin
@@ -53,5 +53,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: []
+slides: ""
 ---
