@@ -1,6 +1,6 @@
 ---
 title: Blog with Jupyter Notebooks!
-date: Revise & Resubmit
+date: '2023-04-01T00:00:00Z'
 summary: Easily blog from Jupyter notebooks!
 ---
 
