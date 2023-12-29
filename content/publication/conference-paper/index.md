@@ -23,7 +23,7 @@ publication_types: ['article-journal']
 publication: "*Journal of Common Market Studies*"
 publication_short: ""
 
-abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. 
+abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. Within this context, this article explores the politicization of immigration in Portugal between 1995 and 2014. Politicization is interpreted as being formed by two distinct dimensions: salience and polarization of the political claims found within news articles extracted from newspapers.  
 
 featured: false
 
