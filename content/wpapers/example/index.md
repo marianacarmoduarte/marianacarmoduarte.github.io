@@ -5,7 +5,7 @@ authors:
   - João Carvalho
   - admin
   - Didier Ruedin
-date: ''
+hidedate: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
