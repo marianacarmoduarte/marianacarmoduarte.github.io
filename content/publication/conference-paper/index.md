@@ -23,7 +23,7 @@ publication_types: ['article-journal']
 publication: "*Journal of Common Market Studies*"
 publication_short: ""
 
-abstract: 
+abstract: Immigration
 
 featured: false
 
