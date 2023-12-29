@@ -1,6 +1,11 @@
 ---
 title: Follow the media? News environment and public concern about immigration
 summary: With João Carvalho and Didier Ruedin
+summary: Revise & Resubmit
+authors:
+  - João Carvalho
+  - admin
+  - Didier Ruedin
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
