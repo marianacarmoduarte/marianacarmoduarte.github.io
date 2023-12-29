@@ -64,7 +64,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - wpapers
         author: ""
         category: ""
         tag: ""
@@ -113,7 +113,7 @@ sections:
       title: Data
       filters:
         folders:
-          - event
+          - data
     design:
       columns: '2'
       view: compact
