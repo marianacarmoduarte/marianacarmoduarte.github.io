@@ -52,7 +52,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: list
+      view: citation
   - block: collection
     id: workingpapers
     content:
@@ -78,7 +78,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: list
       columns: '2'    
   - block: collection
     id: projects
