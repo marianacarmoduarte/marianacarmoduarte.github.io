@@ -1,17 +1,13 @@
 ---
-title: Follow the media? News environment and public concern about immigration
-summary: With João Carvalho and Didier Ruedin
-summary: Revise & Resubmit
-authors:
-  - João Carvalho
-  - admin
-  - Didier Ruedin
+title: LoREP
+summary: “Losers of Representation” is a scientific project that aims to understand the paradigm of inequality in political representation. 
+
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.ics.ulisboa.pt/en/projeto/losers-representation'
 
 image:
   caption: Photo by rawpixel on Unsplash
