@@ -1,6 +1,6 @@
 ---
 title: Blog with Jupyter Notebooks!
-date: '2023'
+date: ''
 summary: Easily blog from Jupyter notebooks!
 ---
 
