@@ -1,6 +1,6 @@
 ---
 title: 'SOM - Support and Opposition to Migration'
-summary: “Support and Opposition to Migration" is a family of projects which look at the politicization of migration in several European countries.  anti-racist movements. 
+summary: “Support and Opposition to Migration" is a family of projects which look at the politicization of migration in several European countries. 
 
 tags:
   - Deep Learning
