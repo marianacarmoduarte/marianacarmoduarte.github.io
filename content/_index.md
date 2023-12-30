@@ -4,10 +4,17 @@ title: ''
 date: 2022-10-24
 type: landing
 
-sections:
-  - block: hero
-    id: hero
-    demo: false # Only display this section in the Hugo Blox Builder demo site
+
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: false
+
+# Order that this section appears on the page.
+weight: 15
 
 title: Welcome 
 
@@ -22,6 +29,7 @@ design:
     image_position: left
     image_size: cover
     text_color_light: true
+sections:
   - block: about.biography
     id: about
     content:
