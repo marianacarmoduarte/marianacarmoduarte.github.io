@@ -9,18 +9,6 @@ sections:
 <<<<<<< HEAD
   - block: demo
     id: demo
-=======
-  - block: hero
-    id: hero
->>>>>>> parent of 0dfc283 (commit)
-    demo: false
-    headless: false
-    content:
-      title: Welcome
-      design:
-=======
-  - block: hero
-    id: hero
     demo: false
     headless: false
     content:
