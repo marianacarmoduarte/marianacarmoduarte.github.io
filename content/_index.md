@@ -4,14 +4,20 @@ title: ''
 date: 2022-10-24
 type: landing
 
-sections:
-  - block: demno
-    id: demo
-    content:
-      title: Welcome 
-      filters:
-        folders:
-        exclude_featured: true
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: false
+
+# Order that this section appears on the page.
+weight: 15
+
+title: Welcome 
+
+subtitle:
 design:
   columns: "1"
   background:
@@ -21,6 +27,7 @@ design:
     image_position: left
     image_size: cover
     text_color_light: true
+Sections:    
   - block: about.biography
     id: about
     content:
