@@ -5,9 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    id: hero
-    headless: false
+  - headless: false
     demo: false 
     content:
       title: Hugo Academic Them
