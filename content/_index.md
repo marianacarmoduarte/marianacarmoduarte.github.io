@@ -10,7 +10,7 @@ sections:
     demo: false
     headless: false
     content:
-      title: Hugo Academic Theme
+      title: Welcome!
       design:
       background:
         image:
