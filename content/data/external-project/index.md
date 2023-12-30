@@ -1,6 +1,6 @@
 ---
 title: 'Political Claims Analysis: Support and Opposition to Migration in Portugal'
-summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs). It will be made public soon. 
+summary: Claims analysis of newspapers articles on immigration and integration in Portugal, 1995-2014. 
 authors:
   - João Carvalho
   - admin
