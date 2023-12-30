@@ -1,6 +1,6 @@
 ---
-title: Political Claims Analysis: Support and Opposition to Migration in Portugal
-summary: Claims analysis of newspapers in Portugal, 1995-2014. This is a faithful replication of the methodology of the SOM project 
+title: External Project
+summary: An example of linking directly to an external project website using `external_link`.
 
 date: "2016-04-27T00:00:00Z"
 
