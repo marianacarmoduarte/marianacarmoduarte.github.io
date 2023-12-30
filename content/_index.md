@@ -5,13 +5,13 @@ date: 2022-10-24
 type: landing
 
 Sections:    
-  - block: about.biography
+  - block: about
     id: about
     content:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: publications
     id: publications
     content:
       title: Publications
@@ -22,7 +22,7 @@ Sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+  - block: workingpapers
     id: workingpapers
     content:
       title: Working Papers
@@ -49,7 +49,7 @@ Sections:
       # Choose a layout view
       view: compact
       columns: '2'    
-  - block: collection
+  - block: projects
     id: projects
     content:
       title: Projects
@@ -76,7 +76,7 @@ Sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
+  - block: data
     id: data
     content:
       title: Data
