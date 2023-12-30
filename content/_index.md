@@ -7,8 +7,8 @@ type: landing
 Sections:    
   - block: blank
     id: blank
+    headless: false
     title: Welcome
-    demo: false
   - block: about.biography
     id: about
     content:
