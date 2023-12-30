@@ -8,6 +8,7 @@ Sections:
   - block: blank
     id: blank
     title: Welcome
+    demo: false
   - block: about.biography
     id: about
     content:
