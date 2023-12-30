@@ -16,7 +16,6 @@ headless: false
 weight: 15
 
 title: Welcome 
-
 subtitle:
 design:
   columns: "1"
