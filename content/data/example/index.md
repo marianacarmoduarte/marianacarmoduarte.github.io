@@ -1,6 +1,6 @@
 ---
 title: Migration Communication Campaigns Dataset (MCCD)
-summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs). 
+summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs). It will be made public soon. 
 authors:
   - James Dennison
   - Lorenzo Piccoli
@@ -8,7 +8,7 @@ authors:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://migrationpolicycentre.eu/the-migration-campaigns-dataset-4/'
 
 url_code: ''
 url_pdf: ''
