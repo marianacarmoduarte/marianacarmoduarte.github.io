@@ -4,9 +4,6 @@ title: ''
 date: 2022-10-24
 type: landing
 
-<<<<<<< HEAD
-Sections:
-=======
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
@@ -39,9 +36,6 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-        image:
-      filename: DSC-0134.JPG
->>>>>>> parent of 43729d3 (commit)
   - block: about.biography
     id: about
     content:
