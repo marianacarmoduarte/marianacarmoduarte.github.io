@@ -1,8 +1,10 @@
 ---
 title: Migration Communication Campaigns Dataset (MCCD)
 summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs). 
-tags:
-  - Deep Learning
+authors:
+  - James Dennison
+  - Lorenzo Piccoli
+  - admin
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
