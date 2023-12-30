@@ -36,8 +36,6 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-        image:
-      filename: DSC-0134.JPG
   - block: about.biography
     id: about
     content:
