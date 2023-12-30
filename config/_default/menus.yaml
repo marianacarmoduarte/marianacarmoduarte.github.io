@@ -6,25 +6,25 @@
 main:
   - name: About me
     url: '#about'
-    weight: 10
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 20
+    weight: 30
   - name: Working Papers
     url: '#workingpapers'
-    weight: 30
+    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 50
   - name: Data
     url: '#data'
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
