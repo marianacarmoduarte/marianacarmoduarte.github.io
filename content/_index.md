@@ -6,8 +6,13 @@ type: landing
 
 sections:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - block: demo
     id: demo
+=======
+  - block: hero
+    id: hero
+>>>>>>> parent of 0dfc283 (commit)
     demo: false
     headless: false
     content:
