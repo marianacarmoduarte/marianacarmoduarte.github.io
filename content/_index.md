@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: demo
     id: demo
-    headless: false
+    demo: false
     content:
       title: Hugo Academic Them
     background:
