@@ -4,7 +4,11 @@ title: ''
 date: 2022-10-24
 type: landing
 
+<<<<<<< HEAD
 Sections:
+=======
+Sections:    
+>>>>>>> parent of 2877894 (commit)
   - block: about.biography
     id: about
     content:
