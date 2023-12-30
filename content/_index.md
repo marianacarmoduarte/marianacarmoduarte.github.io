@@ -10,7 +10,7 @@ sections:
     demo: false
     headless: false
     content:
-      title: Welcome!
+      title: Welcome
       design:
       background:
         image:
