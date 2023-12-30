@@ -9,11 +9,7 @@ sections:
     id: hero
     headless: false
     content:
-<<<<<<< HEAD
       title: Hugo Academic Them
-    background:
-=======
-      title: Hugo Academic Theme
       image:
         filename: hero-academic.png
       cta:
