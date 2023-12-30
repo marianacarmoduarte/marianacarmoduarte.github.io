@@ -24,7 +24,7 @@ sections:
     demo: false
     headless: false
     content:
-      title: Hugo Academic Theme
+      title: Hugo Academic Them
     background:
         image:
       filename: DSC-0134.JPG
