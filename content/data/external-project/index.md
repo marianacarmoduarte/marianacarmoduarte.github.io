@@ -1,9 +1,8 @@
 ---
-title: Migration Communication Campaigns Dataset (MCCD)
+title: 'Political Claims Analysis: Support and Opposition to Migration in Portugal'
 summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs). It will be made public soon. 
 authors:
-  - James Dennison
-  - Lorenzo Piccoli
+  - João Carvalho
   - admin
 date: '2016-04-27T00:00:00Z'
 
