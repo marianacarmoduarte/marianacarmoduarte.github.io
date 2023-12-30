@@ -5,8 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-<<<<<<< HEAD
-<<<<<<< HEAD
   - block: demo
     id: demo
     demo: false
