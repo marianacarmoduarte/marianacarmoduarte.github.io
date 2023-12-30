@@ -6,7 +6,7 @@
 main:
   - name: Blank
     url: '#blank'
-    weight: 20
+    weight: 10
   - name: About me
     url: '#about'
     weight: 20
