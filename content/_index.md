@@ -7,7 +7,6 @@ type: landing
 sections:
   - block: demo
     id: demo
-    demo: false
     headless: false
     content:
       title: Hugo Academic Them
