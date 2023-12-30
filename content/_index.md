@@ -5,16 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    id: hero
-    demo: false
-    headless: false
-    content:
-      title: Hugo Academic Theme
-      design:
-      background:
-        image:
-      filename: DSC-0134.JPG
   - block: about.biography
     id: about
     content:
