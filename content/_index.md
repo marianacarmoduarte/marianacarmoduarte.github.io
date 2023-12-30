@@ -4,6 +4,7 @@ title: ''
 date: 2022-10-24
 type: landing
 
+<<<<<<< HEAD
 sections:
   - headless: false
     demo: false 
@@ -13,6 +14,31 @@ sections:
       background:
         image:
       filename: DSC-0134.JPG
+=======
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: false
+
+# Order that this section appears on the page.
+weight: 15
+
+title: Welcome 
+subtitle:
+design:
+  columns: "1"
+  background:
+    image: DSC-0134.JPG
+    image_darken: 1
+    image_parallax: true
+    image_position: left
+    image_size: cover
+    text_color_light: true
+Sections:    
+>>>>>>> parent of 1ef1a41 (commit)
   - block: about.biography
     id: about
     content:
