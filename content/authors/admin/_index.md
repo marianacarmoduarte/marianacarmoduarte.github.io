@@ -25,7 +25,7 @@ organizations:
     url: https://www.ics.ulisboa.pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include public opinion, party competition, EU politicisation, and survey analysis
+bio: My research interests include public opinion, party competition, EU politicisation, migration, and survey analysis
 
 # Interests to show in About widget
 interests:
