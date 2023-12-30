@@ -4,7 +4,6 @@ title: ''
 date: 2022-10-24
 type: landing
 
-<<<<<<< HEAD
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
@@ -37,18 +36,6 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-=======
-Sections:    
-  - block: blank
-    id: blank
-    headless: false
-    title: Welcome
-    subtitle:
- design:
-  columns: "1"
-  background:
-    image: DSC-0134.JPG
->>>>>>> parent of 5bb25c8 (commit)
   - block: about.biography
     id: about
     content:
