@@ -9,6 +9,11 @@ Sections:
     id: blank
     headless: false
     title: Welcome
+    subtitle:
+ design:
+  columns: "1"
+  background:
+    image: DSC-0134.JPG
   - block: about.biography
     id: about
     content:
