@@ -8,20 +8,9 @@ sections:
   - block: hero
     id: hero
     demo: false
+    headless: false
     content:
       title: Hugo Academic Theme
-      image:
-        filename: hero-academic.png
-      cta:
-        label: '**Get Started**'
-        url: https://hugoblox.com/templates/
-      cta_alt:
-        label: Ask a question
-        url: https://discord.gg/z8wNYzb
-      cta_note:
-        label: >-
-          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-      text: 
       design:
       background:
         image:
