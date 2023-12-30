@@ -5,6 +5,9 @@ date: 2022-10-24
 type: landing
 
 Sections:    
+  - block: blank
+    id: blank
+    title: Welcome
   - block: about.biography
     id: about
     content:
