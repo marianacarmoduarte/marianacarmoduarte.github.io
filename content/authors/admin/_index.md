@@ -75,7 +75,7 @@ social:
     icon_pack: fab
     link: https://www.webofscience.com/wos/author/record/ABI-2376-2020
   - icon: scopus
-    icon_pack: Academicons
+    icon_pack: academicons
     link: https://www.scopus.com/authid/detail.uri?authorId=57197809946
   - icon: orcid
     icon_pack: fab
