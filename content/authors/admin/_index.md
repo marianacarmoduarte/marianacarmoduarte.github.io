@@ -73,7 +73,7 @@ social:
     link: https://www.researchgate.net/profile/Mariana-Carmo-Duarte
   - icon: researcherid
     icon_pack: fab
-    link: https://www.scopus.com/authid/detail.uri?authorId=57197809946
+    link: https://www.webofscience.com/wos/author/record/ABI-2376-2020
   - icon: scopus
     icon_pack: fab
     link: https://www.scopus.com/authid/detail.uri?authorId=57197809946
