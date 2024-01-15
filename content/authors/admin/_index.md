@@ -65,16 +65,13 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=s-IoZY4AAAAJ&hl=pt-BR
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/marianacarmoduarte
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0003-2213-2920
   - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Mariana-Carmo-Duarte
+    - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-2213-2920
   # Link to a PDF of your resume/CV.
