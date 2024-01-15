@@ -40,16 +40,16 @@ education:
   courses:
     - course: PhD in Political and Social Science
       institution: European University Institute
-      year: 2019 - 2023
+      year: 2023
     - course: PGDip in Data Analysis in Social Sciences
       institution: ISCTE-IUL
-      year: 2017 - 2018
+      year: 2018
     - course: MSc in Political Science
       institution: ISCTE-IUL
-      year: 2014 - 2016
+      year: 2016
     - course: BSc in Political Science and International Relations
       institution: NOVA FCSH
-      year: 2011 - 2014
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
