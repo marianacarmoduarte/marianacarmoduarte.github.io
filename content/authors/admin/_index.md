@@ -71,6 +71,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Mariana-Carmo-Duarte
+  - icon: scopus
+    icon_pack: fab
+    link: https://www.scopus.com/authid/detail.uri?authorId=57197809946
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-2213-2920
