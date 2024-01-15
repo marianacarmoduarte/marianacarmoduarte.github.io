@@ -68,12 +68,12 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=s-IoZY4AAAAJ&hl=pt-BR
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-2213-2920
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Mariana-Carmo-Duarte
-    - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0003-2213-2920
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
