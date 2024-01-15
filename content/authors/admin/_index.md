@@ -72,7 +72,7 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Mariana-Carmo-Duarte
   - icon: researcherid
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/ABI-2376-2020
   - icon: scopus
     icon_pack: ai
