@@ -94,4 +94,4 @@ My research interests lie in the field of comparative politics, namely in public
 
 If you are interested in knowing more about my research, please feel free to contact me at mariana.carmoduarte@ics.ulisboa.pt.
 
-Thank you for your visit.
+Thank you for your visit!
