@@ -7,7 +7,7 @@ title: 'Eurosceptic, Polarized or Undecided? How Party Politicization May Shape 
 authors:
   - Morgan Le Corre Juratic
   - admin
-  - Alban Versailes
+  - Alban Versailles
 
 date: '2023-01-01T00:00:00Z'
 doi: ''
