@@ -13,10 +13,8 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-url_project: ''
-
-- name: SOM Project
-   url: https://sites.google.com/site/somprojecteu
+url_project: 'https://sites.google.com/site/somprojecteu'
+url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
 
 
 # Slides (optional).
