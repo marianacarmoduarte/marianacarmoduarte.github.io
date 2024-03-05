@@ -2,8 +2,8 @@
 title: Migration Communication Campaigns Database (MCCD)
 summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs).
 authors:
-  - James Dennison
   - Lorenzo Piccoli
+  - James Dennison
   - admin
 date: '2016-04-27T00:00:00Z'
 
