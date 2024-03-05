@@ -1,6 +1,6 @@
 ---
-title: Migration Communication Campaigns Dataset (MCCD)
-summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs). It will be made public soon. 
+title: Migration Communication Campaigns Database (MCCD)
+summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs).
 authors:
   - James Dennison
   - Lorenzo Piccoli
@@ -8,10 +8,10 @@ authors:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://migrationpolicycentre.eu/the-migration-campaigns-dataset/'
+external_link: 'https://migrationpolicycentre.eu/campaigns'
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://www.icmpd.org/file/download/60700/file/Migration%2520communication%2520campaigns_EN_v6.pdf'
 url_slides: ''
 url_video: ''
 
