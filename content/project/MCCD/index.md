@@ -1,6 +1,6 @@
 ---
 title: 'MCCD - Migration Communication Campaigns Database'
-summary: The Migration Communication Campaigns Database is an interactive and open source database with 301 migration communication campaigns conducted across Europe between 2012 and 2022. The database allows users to analyse and explore migration campaigns by demographics, objectives, content, and strategy. The database is a useful too to explore, inform, and improve migration communication.
+summary: The Migration Communication Campaigns Database is an interactive and open source database with 301 migration communication campaigns conducted across Europe between 2012 and 2022. The database is a useful too to explore, inform, and improve migration communication.
 
 tags:
   - Deep Learning
