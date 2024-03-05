@@ -12,6 +12,7 @@ external_link: 'https://migrationpolicycentre.eu/campaigns'
 
 url_code: ''
 url_pdf: 'https://www.icmpd.org/file/download/60700/file/Migration%2520communication%2520campaigns_EN_v6.pdf'
+url_dataset: 'https://cadmus.eui.eu/handle/1814/76561'
 url_slides: ''
 url_video: ''
 
