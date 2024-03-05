@@ -1,5 +1,5 @@
 ---
-title: Migration Communication Campaigns Database (MCCD)
+title: Migration Communication Campaigns Database
 summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs).
 authors:
   - Lorenzo Piccoli
@@ -8,11 +8,11 @@ authors:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://migrationpolicycentre.eu/campaigns'
+external_link: 'https://cadmus.eui.eu/handle/1814/76561'
 
 url_code: ''
 url_pdf: 'https://www.icmpd.org/file/download/60700/file/Migration%2520communication%2520campaigns_EN_v6.pdf'
-url_dataset: 'https://cadmus.eui.eu/handle/1814/76561'
+url_dataset: ''
 url_slides: ''
 url_video: ''
 
