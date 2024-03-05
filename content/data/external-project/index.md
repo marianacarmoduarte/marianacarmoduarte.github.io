@@ -13,6 +13,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+url_project: 'https://sites.google.com/site/somprojecteu'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
