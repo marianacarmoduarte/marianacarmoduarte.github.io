@@ -14,7 +14,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 url_project: 'https://sites.google.com/site/somprojecteu'
-url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
+url_dataset: ''
 
 
 # Slides (optional).
