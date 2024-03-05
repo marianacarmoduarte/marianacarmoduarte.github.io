@@ -1,5 +1,5 @@
 ---
-title: Migration Communication Campaigns: Towards a Research Agenda and Open Database
+title: 'Migration Communication Campaigns: Towards a Research Agenda and Open Database'
 summary: Working Paper
 authors:
   - James Dennison
@@ -24,4 +24,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
