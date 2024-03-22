@@ -1,6 +1,6 @@
 ---
 title: 'Migration Communication Campaigns: Towards a Research Agenda and Open Database'
-summary: Working Paper
+summary: Under Review
 authors:
   - James Dennison
   - Lorenzo Piccoli
