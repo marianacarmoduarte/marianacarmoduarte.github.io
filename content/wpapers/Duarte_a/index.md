@@ -1,6 +1,6 @@
 ---
 title: 'When National Politics Matters: Individual Predispositions, Party Politicisation of the European Union, and Public Opinion Formation'
-summary: Under Review
+summary: Revise & Resubmit
 authors:
   - admin
 
