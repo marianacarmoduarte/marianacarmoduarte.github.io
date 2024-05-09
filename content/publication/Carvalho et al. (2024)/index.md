@@ -33,7 +33,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12683'
 url_code: ''
 url_dataset: 'https://osf.io/xjgny/'
 url_poster: ''
