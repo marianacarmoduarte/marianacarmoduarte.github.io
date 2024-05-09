@@ -1,6 +1,6 @@
 ---
-title: 'POLPOP II - How Politicians Evaluate Public Opinon'
-summary: The POLPOP II project examines how politicians evaluate public opinion. POLPOP II  builds on the foundations laid by the previous POLPOP I project, which focused on elites' perceptions of public opinion.
+title: 'POLPOP II - How Politicians Evaluate Public Opinion'
+summary: "How Politicians Evaluate Public Opinion" is a project that builds on the foundations laid by the previous POLPOP I project, which focused on elites' perceptions of public opinion.
 
 tags:
   - Deep Learning
