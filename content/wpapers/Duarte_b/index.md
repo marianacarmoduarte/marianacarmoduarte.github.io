@@ -1,5 +1,6 @@
 ---
-title: 'Does Party Politicisation of the European Union Influence Framing Effects on Public Opinion Formation? Evidence from a Survey Experiment'
+title: 'Framing Effects on EU Public Opinion Formation: Disentangling the Moderating Role
+of Issue Salience and Party Polarisation'
 summary: Working Paper
 authors:
   - admin
