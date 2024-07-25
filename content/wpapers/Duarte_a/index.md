@@ -1,5 +1,6 @@
 ---
-title: 'When National Politics Matters: Individual Predispositions, Party Politicisation of the European Union, and Public Opinion Formation'
+title: 'Informing or Guiding? The Role of Party Politicisation of the European Union on
+Public Opinion Formation'
 summary: Revise & Resubmit
 authors:
   - admin
