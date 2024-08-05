@@ -5,7 +5,7 @@ summary: West European Politics
 authors:
   - admin
 
-date: '2023-01-01'
+date: '2024-01-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
