@@ -1,5 +1,5 @@
 ---
-title: 'Follow the Media? News Environment and Public Concern about Immigration'
+title: 'Informing or Guiding? The Influence of Party Politicisation of the European Union on Public Opinion Formation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,7 +7,7 @@ title: 'Follow the Media? News Environment and Public Concern about Immigration'
 authors:
   - admin
 
-date: '2024-04-01T00:00:00Z'
+date: '2024-08-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,9 +32,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12683'
+url_pdf: ''
 url_code: ''
-url_dataset: 'https://osf.io/xjgny/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
