@@ -33,7 +33,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2396737'
-url_code: ''
+url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5EUBJ8'
 url_dataset: ''
 url_poster: ''
 url_project: ''
