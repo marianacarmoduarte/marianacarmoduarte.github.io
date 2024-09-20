@@ -32,7 +32,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2396737'
 url_code: ''
 url_dataset: ''
 url_poster: ''
