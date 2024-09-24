@@ -34,8 +34,8 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12683'
-url_code: ''
-url_dataset: 'https://osf.io/xjgny/'
+url_code: 'https://osf.io/xjgny/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
