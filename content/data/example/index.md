@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://cadmus.eui.eu/handle/1814/76561'
 
-url_project: 'https://migrationpolicycentre.eu/migration-communication-campaigns-dataset/home/'
+url_project: 'https://migrationpolicycentre.eu/campaigns/'
 url_pdf: 'https://www.icmpd.org/file/download/60700/file/Migration%2520communication%2520campaigns_EN_v6.pdf'
 url_dataset: ''
 url_slides: ''
