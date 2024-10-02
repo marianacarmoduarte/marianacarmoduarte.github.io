@@ -24,7 +24,7 @@ publication_types: ['article-journal']
 publication: "*Journal of European Public Policy*"
 publication_short: ""
 
-abstract:  
+abstract: Every year, government agencies, international organisations, and civil society associations produce public communications campaigns designed to inform, persuade, and motivate behaviour regarding numerous facets of migration. Despite their increasing ubiquity, resources, and—possibly—impact, as well as the profound scientific relevance in understanding them—as well as their determinants and effects—such campaigns remain relatively understudied, and existing research is disjointed across various disciplines. This article takes three steps to propose and initiate a unified, interdisciplinary research agenda on migration communication campaigns (MCCs).  
 
 featured: false
 
