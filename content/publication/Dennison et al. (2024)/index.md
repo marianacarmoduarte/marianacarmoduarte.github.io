@@ -1,5 +1,5 @@
 ---
-title: 'Follow the Media? News Environment and Public Concern about Immigration'
+title: 'Migration Communication Campaigns: Towards a Research Agenda and Open Database'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
