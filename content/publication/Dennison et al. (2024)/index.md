@@ -33,7 +33,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.dropbox.com/scl/fi/5lfj0s5azzngia6i26chy/Intro-to-Dropbox.pdf?rlkey=xgceuscn6jk6zyy77bvtfv7qk&st=naqkvgvs&dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
