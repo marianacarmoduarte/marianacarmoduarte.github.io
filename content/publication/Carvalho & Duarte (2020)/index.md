@@ -6,7 +6,7 @@ title: 'The Politicization of Immigration in Portugal between 1995 and 2014: A E
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - J Carvalho
-  - "*MC Duarte*"
+  - MC Duarte
 
 date: '2020-04-01T00:00:00Z'
 doi: ''
