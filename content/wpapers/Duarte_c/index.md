@@ -2,7 +2,7 @@
 title: 'Do you Always Toe the Line? The Influence of Party Cues on Public Opinion Formation in the 2019 EP Election'
 summary: Working Paper
 authors:
-  - admin
+  - MC Duarte
 
 date: '2023-01-01'
 

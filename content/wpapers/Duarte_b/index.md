@@ -3,7 +3,7 @@ title: 'Framing Effects on EU Public Opinion Formation: Disentangling the Modera
 of Issue Salience and Party Polarisation'
 summary: Working Paper
 authors:
-  - admin
+  - MC Duarte
 
 date: '2023-01-01'
 

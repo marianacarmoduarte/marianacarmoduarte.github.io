@@ -3,9 +3,9 @@ title: 'The Effects of Participatory Democracy on
 Political Attitudes: Causal Evidence from Citizens’ Assemblies'
 summary: Working Paper
 authors:
-  - admin
-  - Jorge M. Fernandes
-  - Miguel M. Pereira
+  - MC Duarte
+  - JM Fernandes
+  - MM Pereira
 
 date: '2023-01-01'
 

@@ -2,8 +2,8 @@
 title: 'Only Hot Air? National Parliamentary Discourse and Its Effect on Public Opinion on the European Union'
 summary: Working Paper
 authors:
-  - admin
-  - Rebecca C. Kittel
+  - MC Duarte
+  - RC Kittel
 
 date: '2023-01-01'
 
