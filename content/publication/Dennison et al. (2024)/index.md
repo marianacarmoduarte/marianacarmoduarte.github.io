@@ -5,9 +5,9 @@ title: 'Migration Communication Campaigns: Towards a Research Agenda and Open Da
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - James Dennison
-  - Lorenzo Piccoli
-  - admin
+  - J Dennison
+  - L Piccoli
+  - MC Duarte
 
 date: '2024-10-01T00:00:00Z'
 doi: ''
