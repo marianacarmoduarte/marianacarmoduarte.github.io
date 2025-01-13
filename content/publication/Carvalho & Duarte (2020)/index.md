@@ -5,8 +5,8 @@ title: 'The Politicization of Immigration in Portugal between 1995 and 2014: A E
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - João Carvalho
-  - admin
+  - Carvalho, J.
+  - Duarte, M. C.
 
 date: '2020-04-01T00:00:00Z'
 doi: ''
