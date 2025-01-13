@@ -6,8 +6,8 @@ title: Mariana Carmo Duarte
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Mariana
-last_name: Carmo Duarte
+first_name: Mariana C.
+last_name: Duarte
 
 # Status emoji
 status:
