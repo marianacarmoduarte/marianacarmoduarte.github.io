@@ -2,8 +2,8 @@
 title: 'Political Claims Analysis: Support and Opposition to Migration in Portugal'
 summary: Claims analysis of newspapers articles on immigration and integration in Portugal, 1995-2014. 
 authors:
-  - João Carvalho
-  - admin
+  - J Carvalho
+  - MC Duarte
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

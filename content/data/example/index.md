@@ -2,9 +2,9 @@
 title: Migration Communication Campaigns Database
 summary: This is an inventory that helps beginning a unified, inter-disciplinary research agenda on migration communication campaigns (MCCs).
 authors:
-  - Lorenzo Piccoli
-  - James Dennison
-  - admin
+  - L Piccoli
+  - J Dennison
+  - MC Duarte
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
