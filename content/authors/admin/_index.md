@@ -80,6 +80,8 @@ Welcome to my website! I am a Postdoctoral researcher at [ICS - University of Li
 
 My research interests lie in the field of comparative politics, namely in public opinion and party competition. I use advanced quantitative methods and experimental designs to explore the consequences of party politicisation of the European Union and immigration on the dynamics of public opinion formation. Besides that, my research interests also include political institutions, electoral systems, and political representation. 
 
+My work has been published in the *Journal of European Public Policy*, *European Journal of Political Research*, *West European Politics*, and *JCMS: Journal of Common Market Studies*, among others.
+
 If you are interested in knowing more about my research, please feel free to contact me at mariana.carmoduarte@ics.ulisboa.pt.
 
 Thank you for your visit!
