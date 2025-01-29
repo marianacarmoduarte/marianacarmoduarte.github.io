@@ -59,7 +59,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: bluesky
+  - icon: fab-bluesky
     icon_pack: fab
     link: https://twitter.com/MarianaC_Duarte
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
