@@ -60,7 +60,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: bluesky
-    icon_pack: fab
+    icon_pack: fas
     link: https://twitter.com/MarianaC_Duarte
     label: Follow me on Twitter
     display:
