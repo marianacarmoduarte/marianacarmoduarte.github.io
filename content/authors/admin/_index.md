@@ -59,7 +59,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
     link: https://twitter.com/MarianaC_Duarte
     label: Follow me on Twitter
