@@ -59,7 +59,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: bluesky
+  - icon: "brand/bsky"
     icon_pack: fas
     link: https://twitter.com/MarianaC_Duarte
     label: Follow me on Twitter
