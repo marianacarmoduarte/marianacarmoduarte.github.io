@@ -59,9 +59,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: fab-bluesky
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MarianaC_Duarte
+    label: Follow me on Twitter
+    display:
+      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=s-IoZY4AAAAJ&hl=pt-BR
