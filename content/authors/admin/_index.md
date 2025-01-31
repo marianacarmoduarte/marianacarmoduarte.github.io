@@ -84,4 +84,4 @@ My work has been published in the *Journal of European Public Policy*, *European
 
 If you are interested in knowing more about my research, please feel free to contact me at mariana.carmoduarte@ics.ulisboa.pt.
 
-Thank you for your visit!
+Thank you for your visit.
