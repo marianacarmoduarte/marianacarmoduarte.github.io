@@ -9,7 +9,7 @@ authors:
   - MC Duarte
   - D Ruedin
 
-date: '2024-05-01T00:00:00Z'
+date: '2025-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +33,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12683'
+url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12683'
 url_code: 'https://osf.io/xjgny/'
 url_dataset: ''
 url_poster: ''
