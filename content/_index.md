@@ -72,7 +72,7 @@ sections:
         postcode: 1600-189
         country: Portugal
         country_code: PT
-      directions: Office 5.03
+      directions: Office
       # Automatically link email and phone or display as text?
       autolink: true
     design:
