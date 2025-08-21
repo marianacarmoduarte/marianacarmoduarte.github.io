@@ -69,7 +69,7 @@ sections:
         street: Av. Professor Aníbal de Bettencourt 9
         city: Lisbon
         region: 
-        postcode: 1600-189
+        postcode: 1600-18
         country: Portugal
         country_code: PT
       directions: Office
