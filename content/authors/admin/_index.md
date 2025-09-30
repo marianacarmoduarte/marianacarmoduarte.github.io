@@ -76,12 +76,12 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I am currently working on the project [LoREP - Losers of Representation](https://www.ics.ulisboa.pt/en/projeto/losers-representation). I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/home) in September 2023.
+Welcome to my website! I am a Postdoctoral researcher at the [Institute of Public Goods and Policies at CSIC, Madrid](https://ipp.csic.es/es). I am currently working on the ERC-funded project [SEE: Representation in Proportional Electoral Systems](https://cordis.europa.eu/project/id/101170281). Before that, I was a Postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/home) in September 2023.
 
-My research interests lie in the field of comparative politics, namely in public opinion and party competition. I use advanced quantitative methods and experimental designs to explore the consequences of party politicisation of the European Union and immigration on the dynamics of public opinion formation. Besides that, my research interests also include political institutions, electoral systems, and political representation. 
+My research interests lie in the field of comparative politics. I use advanced quantitative methods and experimental designs to explore the he dynamics of public opinion and political behaviour on diverse political issues, including the European Union and immigration. Besides that, my research interests also include party conflict, political institutions, electoral systems, and political representation. 
 
 My work has been published in the *Journal of European Public Policy*, *European Journal of Political Research*, *West European Politics*, and *JCMS: Journal of Common Market Studies*, among others.
 
-If you are interested in knowing more about my research, please feel free to contact me at mariana.carmoduarte@ics.ulisboa.pt.
+If you are interested in knowing more about my research, please feel free to contact me at mariana.duarte@csic.es
 
 Thank you for your visit!
