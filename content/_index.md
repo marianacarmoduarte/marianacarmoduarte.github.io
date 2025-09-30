@@ -64,15 +64,15 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: mariana.carmoduarte@ics.ulisboa.pt
+      email: mariana.duarte@csic.es
       address:
-        street: Av. Professor Aníbal de Bettencourt 9
-        city: Lisbon
+        street: C/ Albasanz, 26-28
+        city: Madrid
         region: 
-        postcode: 1600-18
-        country: Portugal
-        country_code: PT
-      directions: Office
+        postcode: 28037
+        country: Spain
+        country_code: ES
+      directions: 3A13
       # Automatically link email and phone or display as text?
       autolink: true
     design:
