@@ -21,8 +21,9 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ICS - University of Lisbon
-    url: https://www.ics.ulisboa.pt/
+  - name: Institute of Public Goods and Policies (IPP),
+          Spanish National Research Council (CSIC)
+    url: https://ipp.csic.es/es
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include public opinion, party competition, EU politicisation, migration, and survey analysis
