@@ -22,7 +22,7 @@ role: Postdoctoral Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Institute of Public Goods and Policies
-          Spanish National Research Council (IPP-CSIC)
+          Spanish National Research Council
     url: https://ipp.csic.es/es
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,11 +30,12 @@ bio: My research interests include public opinion, party competition, EU politic
 
 # Interests to show in About widget
 interests:
+  - Comparative Politics
+  - European Politics
   - Public Opinion
   - Party Competition
-  - EU Politicisation
-  - Migration
   - Survey Analysis
+  - Experimental Designs
 
 # Education to show in About widget
 education:
@@ -60,12 +61,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/MarianaC_Duarte
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=s-IoZY4AAAAJ&hl=pt-BR
@@ -77,7 +72,7 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Postdoctoral researcher at the [Institute of Public Goods and Policies at CSIC, Madrid](https://ipp.csic.es/es). I am currently working on the ERC-funded project [SEE: Representation in Proportional Electoral Systems](https://cordis.europa.eu/project/id/101170281). Before that, I was a Postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/home) in September 2023.
+Welcome to my website! I am a postdoctoral research fellow at the [Institute for Public Goods and Policies (IPP) at the Spanish National Research Council (CSIC)](https://ipp.csic.es/en/welcome-ipp) in Madrid. I am currently working on the ERC-funded project [SEE: Representation in Proportional Electoral Systems](https://cordis.europa.eu/project/id/101170281). Before that, I was a postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/home).
 
 My research interests lie in the field of comparative politics. I use advanced quantitative methods and experimental designs to explore the dynamics of public opinion and political behaviour on diverse political issues, including the European Union and immigration. Besides that, my research interests also include party conflict, political institutions, electoral systems, and political representation. 
 
