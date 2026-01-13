@@ -5,9 +5,9 @@ title: 'Follow the Media? News Environment and Public Concern about Immigration'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - J Carvalho
-  - MC Duarte
-  - D Ruedin
+  - Carvalho, João
+  - Mariana C. Duarte
+  - and Didier Ruedin
 
 date: '2025-05-01T00:00:00Z'
 doi: ''
