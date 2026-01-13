@@ -1,10 +1,10 @@
 ---
 title: 'Workers’ EU Political Alignments during the Great Recession'
 authors:
-- A Freire
-- L Cabrita
-- MC Duarte
-- HF Lopes
+- Freire, André
+- Luís Cabrita
+- Mariana C. Duarte
+- and Hugo F. Lopes
 date: "2017-05-01T00:00:00Z"
 doi: ""
 
