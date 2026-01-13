@@ -26,14 +26,13 @@ organizations:
     url: https://ipp.csic.es/es
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include public opinion, party competition, EU politicisation, migration, and survey analysis
+bio: My research interests include comparative politics, european politics, public opinion, survey analysis, and experimental designs
 
 # Interests to show in About widget
 interests:
   - Comparative Politics
   - European Politics
   - Public Opinion
-  - Party Competition
   - Survey Analysis
   - Experimental Designs
 
