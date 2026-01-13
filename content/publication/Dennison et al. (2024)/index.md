@@ -9,7 +9,7 @@ authors:
   - L Piccoli
   - MC Duarte
 
-date: '2024-10-01T00:00:00Z'
+date: '2025-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
