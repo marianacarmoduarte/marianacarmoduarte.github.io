@@ -1,29 +1,29 @@
 ---
-title: 'Informing or Guiding? The Influence of Party Politicisation of the European Union on Public Opinion Formation'
+title: 'From Permissive Consensus to Constraining Dissensus: The Politicisation of the European Union in Domestic Public Opinion'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Duarte, Mariana C.
+  - Russo, Luís
+  - and Mariana C. Duarte
 
 date: '2026-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2026-09-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['book-section']
 
 # Publication name and optional abbreviated publication name.
-publication: "*West European Politics*"
+publication: In *The Routledge Handbook of European Union Politics*
 publication_short: ""
 
-abstract: How do individual predispositions towards national politics influence public opinion formation on the EU? This article addresses this question by unveiling the moderating role of party politicisation of the EU. Through debate and competition, political parties can affect how individuals rely on their predispositions towards national politics to form their views on the EU. Using individual-level and country-year-level data from 25 EU countries, results reveal that citizens are less likely to rely on short-term utilitarian appreciations of the national economy or trust in national institutions as the degree of party politicisation of the EU increases. The way individuals activate predispositions that reflect hostility towards immigrants is not dependent on the levels of party politicisation of the EU. The findings highlight that party politicisation of the EU informs public opinion by creating an information-rich environment; however, it does not guide individuals to mobilise and activate their cultural predispositions towards immigration.
-
+abstract: This chapter reviews the main theoretical and empirical contributions to the debate on the politicization of the European Union (EU) by focusing on the role of public opinion in the process of European integration. The era of “permissive consensus” started to vanish in the mid-1980s, and pro-EU political elites are now hampered by a popular “constraining dissensus” that prevents them from making decisions regarding the integration of the Union without considering public opinion. These social transformations have fostered the proliferation of theoretical and empirical works trying to uncover the processes of politicization of the EU and its effects on public opinion. This chapter discusses in detail the main postulates of the postfunctionalist theory and revises the concept of politicization of the EU, its patterns and trends, and its societal implications.
 
 featured: false
 
@@ -32,8 +32,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2396737'
-url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5EUBJ8'
+url_pdf: 'https://www.routledge.com/The-Routledge-Handbook-of-European-Union-Politics/Knodt-Chaban-Costa-Muller/p/book/9781032786247'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
