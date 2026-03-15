@@ -32,7 +32,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.routledge.com/The-Routledge-Handbook-of-European-Union-Politics/Knodt-Chaban-Costa-Muller/p/book/9781032786247'
+url_pdf: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003488736-29/permissive-consensus-constraining-dissensus-luís-russo-mariana-duarte'
 url_code: ''
 url_dataset: ''
 url_poster: ''
