@@ -1,6 +1,6 @@
 ---
-title: 'The Effects of Participatory Democracy on
-Political Attitudes: Causal Evidence from Citizens’ Assemblies'
+title: 'Who Participates in Deliberative Democracy (and Does it Matter)? 
+An Analysis of Lisbon's Citizens' Assembly'
 summary: Working Paper
 authors:
   - Carnes, Nicholas
