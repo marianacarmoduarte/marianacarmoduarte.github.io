@@ -1,0 +1,29 @@
+---
+title: 'The Effects of Participatory Democracy on
+Political Attitudes: Causal Evidence from Citizens’ Assemblies'
+summary: Working Paper
+authors:
+  - Duarte, Mariana C
+  - Jorge M. Fernandes
+  - and Miguel M. Pereira
+
+date: '2023-01-01'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+links:
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
+
+Contemporary democracies face growing public mistrust and disaffection. Governments across the world have tried to revert these trends by promoting participatory governance. Prior work has established how deliberation can empower citizens. However, whether these effects hold in real-life initiatives initiated by partisan governments remains unclear. We test the ability of citizens' assemblies to foster democratic attitudes in a natural experiment leveraging the random selection of participants to Lisbon's citizens' assembly. Participation in two full-day sessions of structured deliberation promoted by the local government led to a increase in issue knowledge and salience, external political efficacy. Exploratory research further finds an increase in trust. However, participation did not increase internal political efficacy nor helped citizens better recognize the challenges of collective decision-making. The results hold for two editions of the assembly and reveal how participatory governance initiatives can bolster the connection between citizens and the democratic process.
