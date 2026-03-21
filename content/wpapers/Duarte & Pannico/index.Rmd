@@ -5,8 +5,7 @@ Union'
 summary: Working Paper
 authors:
   - Duarte, Mariana C.
-  - Jorge M. Fernandes
-  - and Miguel M. Pereira
+  - and Roberto Pannico
 
 date: '2023-01-01'
 
