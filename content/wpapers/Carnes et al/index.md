@@ -4,7 +4,6 @@ An Analysis of Lisbon's Citizens' Assembly'
 summary: Working Paper
 authors:
   - Carnes, Nicholas
-  - Mariana C. Duarte
   - Jorge M. Fernandes
   - and Noam Lupu
 
