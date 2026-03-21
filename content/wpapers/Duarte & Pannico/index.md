@@ -3,7 +3,7 @@ title: 'Do Citizens Get It Right?
 How Individuals Perceive Party Positions on the European Union'
 summary: Working Paper
 authors:
-  - Duarte, Mariana C.
+  - Duarte, Mariana C
   - and Roberto Pannico
   
 date: '2023-01-01'
