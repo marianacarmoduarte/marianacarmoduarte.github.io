@@ -1,5 +1,5 @@
 ---
-title: 'Who Participates in Deliberative Democracy (and Does it Matter)? 
+title: 'Who Participates in Deliberative Democracy? 
 An Analysis of Lisbon's Citizens' Assembly'
 summary: Working Paper
 authors:
