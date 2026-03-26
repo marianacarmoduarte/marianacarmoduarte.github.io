@@ -1,5 +1,5 @@
 ---
-title: 'Informing or Guiding? The Influence of Party Politicisation of the European Union on Public Opinion Formation'
+title: 'The Effects of Participating in Government-Led Citizens' Assemblies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,7 +21,7 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*West European Politics*"
+publication: "*Political Science Research and Methods*"
 publication_short: ""
 
 abstract: How do individual predispositions towards national politics influence public opinion formation on the EU? This article addresses this question by unveiling the moderating role of party politicisation of the EU. Through debate and competition, political parties can affect how individuals rely on their predispositions towards national politics to form their views on the EU. Using individual-level and country-year-level data from 25 EU countries, results reveal that citizens are less likely to rely on short-term utilitarian appreciations of the national economy or trust in national institutions as the degree of party politicisation of the EU increases. The way individuals activate predispositions that reflect hostility towards immigrants is not dependent on the levels of party politicisation of the EU. The findings highlight that party politicisation of the EU informs public opinion by creating an information-rich environment; however, it does not guide individuals to mobilise and activate their cultural predispositions towards immigration.
