@@ -5,7 +5,7 @@ title: 'The Effects of Participating in Government-Led Citizens Assemblies'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Duarte, Mariana C.
+  - Duarte, Mariana C
   - Fernandes, Jorge M.
   - Pereira, Miguel M.
 
