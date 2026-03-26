@@ -6,7 +6,7 @@ title: 'The Effects of Participating in Government-Led Citizens’ Assemblies'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Duarte, Mariana C 
-  - "<a href='https://jorgemfernandes.github.io'>Jorge M. Fernandes</a>"
+  - Jorge M. Fernandes
   - Miguel M. Pereira
 
 date: '2026-05-01T00:00:00Z'
