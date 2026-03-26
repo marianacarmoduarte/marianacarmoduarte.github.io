@@ -1,5 +1,5 @@
 ---
-title: 'The Effects of Participating in Government-Led Citizens' Assemblies'
+title: 'The Effects of Participating in Government-Led Citizens Assemblies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,11 +21,10 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Political Science Research and Methods*"
+publication: "*Political Science Research and Methods* [conditionally accepted]" 
 publication_short: ""
 
-abstract: How do individual predispositions towards national politics influence public opinion formation on the EU? This article addresses this question by unveiling the moderating role of party politicisation of the EU. Through debate and competition, political parties can affect how individuals rely on their predispositions towards national politics to form their views on the EU. Using individual-level and country-year-level data from 25 EU countries, results reveal that citizens are less likely to rely on short-term utilitarian appreciations of the national economy or trust in national institutions as the degree of party politicisation of the EU increases. The way individuals activate predispositions that reflect hostility towards immigrants is not dependent on the levels of party politicisation of the EU. The findings highlight that party politicisation of the EU informs public opinion by creating an information-rich environment; however, it does not guide individuals to mobilise and activate their cultural predispositions towards immigration.
-
+abstract: Contemporary democracies face growing public mistrust and disaffection. Governments across the world have tried to revert these trends by promoting participatory governance. Prior work has established how deliberation can empower citizens. However, whether these effects hold in real-life initiatives initiated by partisan governments remains unclear. We test the ability of citizens' assemblies to foster democratic attitudes in a natural experiment leveraging the random selection of participants to Lisbon's citizens' assembly. Participation in two full-day sessions of structured deliberation promoted by the local government led to a increase in issue knowledge and salience, external political efficacy. Exploratory research further finds an increase in trust. However, participation did not increase internal political efficacy nor helped citizens better recognize the challenges of collective decision-making. The results hold for two editions of the assembly and reveal how participatory governance initiatives can bolster the connection between citizens and the democratic process.
 
 featured: false
 
@@ -34,8 +33,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2396737'
-url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5EUBJ8'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
