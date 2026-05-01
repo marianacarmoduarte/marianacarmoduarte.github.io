@@ -1,6 +1,6 @@
 ---
-title: 'Do Citizens Get It Right? 
-How Individuals Perceive Party Positions on the European Union'
+title: 'Constructing migration narratives through organised campaigns. 
+A content analysis of migration communication campaigns in Europe'
 summary: Working Paper
 authors:
   - Piccoli, Lorenzo
