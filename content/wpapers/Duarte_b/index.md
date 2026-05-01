@@ -1,7 +1,7 @@
 ---
-title: 'Framing Effects on EU Public Opinion Formation: Disentangling the Moderating Role
+title: '1. Framing Effects on EU Public Opinion Formation: Disentangling the Moderating Role
 of Issue Salience and Party Polarisation'
-summary: Working Paper
+summary: Revise and Resubmit
 authors:
   - Mariana C. Duarte
 
