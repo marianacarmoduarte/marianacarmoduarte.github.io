@@ -1,5 +1,5 @@
 ---
-title: 'Only Hot Air? National Parliamentary Discourse and Its Effect on Public Opinion on the European Union'
+title: '5. Only Hot Air? National Parliamentary Discourse and Its Effect on Public Opinion on the European Union'
 summary: Working Paper
 authors:
   - Duarte, Mariana C

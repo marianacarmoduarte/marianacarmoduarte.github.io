@@ -1,5 +1,5 @@
 ---
-title: 'Do Citizens Get It Right? 
+title: '4. Do Citizens Get It Right? 
 How Individuals Perceive Party Positions on the European Union'
 summary: Working Paper
 authors:

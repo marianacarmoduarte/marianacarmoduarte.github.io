@@ -1,5 +1,5 @@
 ---
-title: 'Constructing migration narratives through organised campaigns. 
+title: '6. Constructing migration narratives through organised campaigns. 
 A content analysis of migration communication campaigns in Europe'
 summary: Working Paper
 authors:
