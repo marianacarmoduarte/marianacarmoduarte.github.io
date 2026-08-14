@@ -73,9 +73,9 @@ highlight_name: true
 
 Welcome to my website! I am a postdoctoral research fellow at the [Institute of Public Goods and Policies (IPP) at the Spanish National Research Council (CSIC)](https://ipp.csic.es/en/welcome-ipp) in Madrid. I am currently working on the ERC-funded project [SEE: Representation in Proportional Electoral Systems](https://cordis.europa.eu/project/id/101170281). Before that, I was a postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/home).
 
-My research interests lie in the field of comparative politics. I use advanced quantitative methods and experimental designs to explore the dynamics of public opinion and political behaviour on diverse political issues, including the European Union and immigration. Besides that, my research interests also include party conflict, political institutions, electoral systems, and political representation. 
+My research interests lie in the field of comparative politics. I use advanced quantitative methods and experimental designs to explore the dynamics of public opinion on diverse political issues, including the European Union, immigration, and deliberative democracy. Besides that, my research interests also include party conflict, political institutions, electoral systems, and political representation. 
 
-My work has been published in the *Journal of European Public Policy*, *European Journal of Political Research*, *West European Politics*, and *JCMS: Journal of Common Market Studies*, among others.
+My work is forthcoming or has been published in the *Journal of European Public Policy*, *European Journal of Political Research*, *Political Science Research and Methods*, *West European Politics*, and *JCMS: Journal of Common Market Studies*, among others.
 
 If you are interested in knowing more about my research, please feel free to contact me at mariana.duarte@csic.es
 
