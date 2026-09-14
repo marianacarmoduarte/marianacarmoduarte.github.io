@@ -75,7 +75,7 @@ Welcome to my website! I am a postdoctoral research fellow at the [Institute of 
 
 My research interests lie in the field of comparative politics. I use advanced quantitative methods and experimental designs to explore the dynamics of public opinion on diverse political issues, including the European Union, immigration, and deliberative democracy. Besides that, my research interests also include party conflict, political institutions, electoral systems, and political representation. 
 
-My work is forthcoming or has been published in the *European Journal of Political Research*, *Journal of European Public Policy*, *Political Science Research and Methods*, *West European Politics*, *European Union Politics*, and *JCMS: Journal of Common Market Studies*, among others.
+My work is forthcoming or has been published in the *European Journal of Political Research*, *Journal of European Public Policy*, *Political Science Research and Methods*, *West European Politics*, and *European Union Politics*, among others.
 
 If you are interested in knowing more about my research, please feel free to contact me at mariana.duarte@csic.es
 
