@@ -1,5 +1,5 @@
 ---
-title: '2. Do you Always Toe the Line? The Influence of Party Cues on Public Opinion Formation in the 2019 EP Election'
+title: '1. Do you Always Toe the Line? The Influence of Party Cues on Public Opinion Formation in the 2019 EP Election'
 summary: Working Paper
 authors:
   - Mariana C. Duarte
