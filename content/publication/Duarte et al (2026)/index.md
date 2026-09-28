@@ -33,7 +33,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.cambridge.org/core/journals/political-science-research-and-methods/article/effects-of-participating-in-governmentled-citizens-assemblies/D4F4EAEBE248C5195A480C2B4D38345A'
 url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B5DOOB&faces-redirect=true'
 url_dataset: ''
 url_poster: ''
