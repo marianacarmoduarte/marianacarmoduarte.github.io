@@ -63,6 +63,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=s-IoZY4AAAAJ&hl=pt-BR
+  - icon: linkedin
+    icon_pack: fab
+    link: https:https://www.linkedin.com/in/mariana-carmo-duarte-821018304/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
