@@ -32,7 +32,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://doi.org/10.7910/DVN/KOXIXT'
 url_dataset: ''
 url_poster: ''
 url_project: ''
