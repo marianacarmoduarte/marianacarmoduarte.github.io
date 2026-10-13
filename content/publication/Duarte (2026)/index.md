@@ -19,7 +19,7 @@ publishDate: '2024-05-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*European Union Politics* [conditionally accepted]" 
+publication: "*European Union Politics* [accepted]" 
 publication_short: ""
 
 abstract: How does party competition influence framing effects? This article explores how party politicization of the European Union (EU)—through issue salience and party polarization—influences the way citizens react to the content of frames. Using a vignette experiment on EU policy issues conducted during a legislative election campaign in Portugal, results suggest issue salience limits framing effects by fostering a more autonomous process of opinion formation. Issue salience also shapes how party polarization influences public opinion. Party polarization moderates the effect of frames only on low-salience EU issues. In highly polarized contexts, individuals examine frames more attentively and are more likely to reject frames inconsistent with their prior beliefs, but only when issues lack salience. The findings help to understand how party competition influences public opinion formation.
