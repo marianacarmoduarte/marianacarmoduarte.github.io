@@ -33,7 +33,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.dropbox.com/scl/fi/1epbrs7r43wfgk6q33k23/Dennison-Piccoli-and-Duarte.pdf?rlkey=b35igr3eir9xzdsc2x3qawtea&st=lp9saaze&dl=0'
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/13501763.2024.2419550#abstract'
 url_code: ''
 url_dataset: 'https://hdl.handle.net/1814/76561'
 url_poster: ''
