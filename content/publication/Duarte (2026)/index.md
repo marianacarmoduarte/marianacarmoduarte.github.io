@@ -31,7 +31,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1177/1465116526150328'
+url_pdf: 'https://doi.org/10.1177/14651165261503281'
 url_code: 'https://doi.org/10.7910/DVN/KOXIXT'
 url_dataset: ''
 url_poster: ''
